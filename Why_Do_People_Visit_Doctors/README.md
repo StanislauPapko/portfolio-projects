@@ -21,7 +21,7 @@ The dataset includes over **20,000 individual records** from a 1977–1978 cross
 
 - **Language**: R
 - **Dataset**: `DoctorContacts` from the [`Ecdat`](https://cran.r-project.org/web/packages/Ecdat/index.html) package
-- **Key Packages**: `ggplot2`, `dplyr`
+- **Key Packages**: `ggplot2`, `dplyr`, `ggmosaic`
 - **Visualization Types**:
   - Histogram (distribution of visits)
   - Faceted hex plots (age & sex)
